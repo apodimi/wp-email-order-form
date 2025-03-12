@@ -1,0 +1,34 @@
+#searchInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#productsTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#productsTable th, #productsTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#productsTable th {
+    background-color: #f4f4f4;
+}
+
+button {
+    background-color: #0073aa;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #005b87;
+}
